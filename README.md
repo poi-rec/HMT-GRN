@@ -1,1 +1,3 @@
-# Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation
+# HMT-GRN
+
+Paper --> Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation
