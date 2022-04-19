@@ -1,5 +1,3 @@
-# HMT-GRN
-
 ## Citation: 
 ```Python
 @inproceedings{hmt_grn,
