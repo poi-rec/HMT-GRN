@@ -1,7 +1,7 @@
 # HMT-GRN
 
 ## Citation: 
-```
+```Python
 @inproceedings{hmt_grn,
   title={Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation},
   author={Lim, Nicholas and Hooi, Bryan and Ng, See-Kiong and Goh, Yong Liang and Weng, Renrong and Tan, Rui},
