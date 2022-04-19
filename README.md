@@ -1,9 +1,15 @@
 # HMT-GRN
 
-Implementation of:
-
-- Nicholas Lim, Bryan Hooi, See-Kiong Ng, Yong Liang Goh, Renrong
-Weng, and Rui Tan. 2022. Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation. In SIGIR.
+## Citation: 
+```
+@inproceedings{hmt_grn,
+  title={Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation},
+  author={Lim, Nicholas and Hooi, Bryan and Ng, See-Kiong and Goh, Yong Liang and Weng, Renrong and Tan, Rui},
+  booktitle={Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={},
+  year={2022}
+}
+```
 
 # FAQ
 Q: Do you provide the datasets?
