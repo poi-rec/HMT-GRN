@@ -1,4 +1,7 @@
 ## Citation: 
+
+Preprint: [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](https://bhooi.github.io/papers/hmt_sigir22.pdf)
+
 ```Python
 @inproceedings{hmt_grn,
   title={Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation},
