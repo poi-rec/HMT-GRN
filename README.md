@@ -1,6 +1,6 @@
 ## Citation: 
 
-Paper: [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](https://dl.acm.org/doi/abs/10.1145/3477495.3531989)
+Paper: [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531989)
 
 ```Python
 @inproceedings{hmt_grn,
